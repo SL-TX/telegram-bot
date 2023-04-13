@@ -1,2 +1,2 @@
 /.idea/
-src/main/resources/application-settings.yml
+/src/main/resources/application-settings.yml
